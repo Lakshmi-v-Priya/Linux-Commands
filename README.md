@@ -70,7 +70,7 @@ Syntax: gedit file_name
 The su command provides administrative access to another user. In other words, it allows access of the Linux shell to another user.
 
 Syntax: su <user name>
-
+<img width="593" height="136" alt="image" src="https://github.com/user-attachments/assets/94642dd1-b4eb-4970-b8ad-8fd5a1bddc22" />
 
 ### 10)	mv Command
 
@@ -78,12 +78,14 @@ The mv command is used to move a file or a directory form one location to anothe
 
 Syntax: mv <file name> <directory path>
 
+<img width="296" height="118" alt="image" src="https://github.com/user-attachments/assets/5e91d8bf-0b8c-4113-8c68-6cd8bb4c2af9" />
  
 ## 11)	rename Command
 
 The rename command is used to rename files. It is useful for renaming a large group of files.
 
 Syntax: rename 's/old-name/new-name/' files
+
 
 
 ### 12)	head Command
